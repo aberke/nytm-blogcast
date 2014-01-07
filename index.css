@@ -1,0 +1,21 @@
+body {
+	width: 650px;
+	height: 100%;
+	margin: auto;
+	border-left: 1px solid gray;
+	border-right: 1px solid gray;
+	border-top: 1px solid white;
+	padding: 20px;
+	padding-bottom: 40px;
+}
+h1 {
+	margin-bottom: 8px;
+}
+
+#author {
+	color: gray;
+	font-size: 13px;
+	font-family: arial;
+	margin-bottom: 30px;
+	margin-top: 0;
+}
